@@ -2,10 +2,19 @@
     "name": "js_tg_bot",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
     "type": "module",
     "scripts": {
-        "start": "node app.js"
+        "example1": "node example_1.js",
+
+        "app1": "node app_1.js",
+        "app2": "node app_2.js",
+        "app3": "node app_3.js",
+        "app4": "node app_4_final.js",
+        "app5": "node app_5.js",
+        "app6": "node app_6.js",
+        "app7": "node app_7_final.js",
+
+        "start": "node final_app.js"
     },
     "author": "",
     "license": "ISC",
